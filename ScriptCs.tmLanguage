@@ -4,7 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>cs</string>
+		<string>csx</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>^\s*/\*|^(?![^{]*?//|[^{]*?/\*(?!.*?\*/.*?\{)).*?\{\s*($|//|/\*(?!.*?\*/.*\S))</string>
@@ -13,7 +13,7 @@
 	<key>keyEquivalent</key>
 	<string>^~C</string>
 	<key>name</key>
-	<string>C#</string>
+	<string>ScriptCs</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -523,8 +523,8 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>source.cs</string>
+	<string>source.csx</string>
 	<key>uuid</key>
-	<string>1BA75B32-707C-11D9-A928-000D93589AF6</string>
+	<string>887420AD-8A8D-4654-9EEC-7DB0FFB80CEA</string>
 </dict>
 </plist>
