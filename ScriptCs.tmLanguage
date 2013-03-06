@@ -249,7 +249,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(if|else|while|for|foreach|do|return|continue|break|switch|case|default|goto|throw|try|catch|finally|lock|yield)\b</string>
+			<string>\b(if|else|while|for|foreach|do|return|continue|break|switch|case|default|goto|throw|try|catch|finally|lock|yield|var|async|await)\b</string>
 			<key>name</key>
 			<string>keyword.control.source.cs</string>
 		</dict>
