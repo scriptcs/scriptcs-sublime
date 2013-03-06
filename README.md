@@ -13,6 +13,8 @@ To update to the latest version, use this command in the ``scriptcs-sublime`` di
 ## Usage
 Once installed Sublime Text should recognize ``.csx`` files, and give you syntax highlighting. It also comes with a build system. To build and run hit ``Cmd+B`` on Mac, or ``Ctrl+B`` on Windows.
 
+``scriptcs.exe`` must be on your ``PATH`` for the build system to work.
+
 If your script has any compilation errors you can hit ``F4`` to navigate to the error.
 
 You can also select a block of code and use the ``Edit - Comment - Toggle Comment`` command.
