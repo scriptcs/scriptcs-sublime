@@ -1,6 +1,5 @@
 {
-	"cmd": ["scriptcs", "$file_name"],
-	"working_dir": "${project_path:${folder}}",
+	"cmd": ["scriptcs", "$file"],
 	"file_regex": "^(.*?)\\(([0-9]+),([0-9]+)\\): ([^\\[]+)",
 	"selector": "source.csx"	
 }
