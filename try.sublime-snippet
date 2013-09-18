@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+try {
+    ${4}
+} catch (${1:Exception} ${2:ex}) {
+    ${3}
+}
+]]></content>
+    <tabTrigger>try</tabTrigger>
+    <scope>source.csx</scope>
+</snippet>

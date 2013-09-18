@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+foreach (var ${1:item} in ${2:collection}) {
+    ${3}
+}
+]]></content>
+    <tabTrigger>foreach</tabTrigger>
+    <scope>source.csx</scope>
+</snippet>
