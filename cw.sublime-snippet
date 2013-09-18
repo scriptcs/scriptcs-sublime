@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+Console.WriteLine("${1:Hello}");
+]]></content>
+    <tabTrigger>cw</tabTrigger>
+    <scope>source.csx</scope>
+</snippet>

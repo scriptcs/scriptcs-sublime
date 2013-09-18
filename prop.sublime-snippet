@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+public ${1:int} ${2:MyProperty} { get; set; }
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>prop</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.csx</scope>
+</snippet>
