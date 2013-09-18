@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+class ${1:MyClass} {
+    
+}
+]]></content>
+    <tabTrigger>class</tabTrigger>
+    <scope>source.csx</scope>
+</snippet>
