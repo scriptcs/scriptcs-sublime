@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+public ${1:MyClass}(${2}) {
+    ${3}
+}
+]]></content>
+    <tabTrigger>ctor</tabTrigger>
+    <scope>source.csx</scope>
+</snippet>
