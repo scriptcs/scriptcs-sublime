@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+enum ${1:MyEnum} {
+    ${2}
+}
+]]></content>
+    <tabTrigger>enum</tabTrigger>
+    <scope>source.csx</scope>
+</snippet>
