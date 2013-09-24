@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+interface I${1:MyClass} {
+    ${2}
+}
+]]></content>
+    <tabTrigger>interface</tabTrigger>
+    <scope>source.csx</scope>
+</snippet>
