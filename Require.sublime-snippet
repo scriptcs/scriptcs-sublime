@@ -2,6 +2,6 @@
     <content><![CDATA[
 var ${1:foo} = Require<${2:ScriptPack}>();
 ]]></content>
-    <tabTrigger>Require</tabTrigger>
+    <tabTrigger>req</tabTrigger>
     <scope>source.csx</scope>
 </snippet>
