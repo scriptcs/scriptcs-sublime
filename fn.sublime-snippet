@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:public} ${2:void} ${3:MethodName}(${4}) {
+    ${5}
+}
+]]></content>
+    <tabTrigger>fn</tabTrigger>
+    <scope>source.csx</scope>
+</snippet>
