@@ -1,5 +1,5 @@
 {
-	"cmd": ["scriptcs", "$file", "-inMemory"],
+	"cmd": ["scriptcs", "$file", "-cache", "false"],
 	"file_regex": "^(.*?)\\(([0-9]+),([0-9]+)\\): ([^\\[]+)",
-	"selector": "source.csx"	
+	"selector": "source.csx"
 }
